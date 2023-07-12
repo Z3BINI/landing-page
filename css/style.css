@@ -144,3 +144,11 @@ p.signed {
     padding: 42px 300px;
     align-items: center;
 }
+.footer {
+    display: flex;
+    background-color: #1f2937;
+    color: white;
+    padding: 42px 300px;
+    align-items: center;
+    justify-content: center;
+}
