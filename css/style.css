@@ -17,6 +17,13 @@ a {
     color: white;
 }
 
+img {
+    width: 550px;
+    height: auto;
+    border: 5px solid whitesmoke;
+    border-radius: 25px;
+}
+
 .header {
     display: flex;
     background-color: #1f2937;
