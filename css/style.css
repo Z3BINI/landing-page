@@ -41,6 +41,26 @@ button {
     font-weight: bold;
 }
 
+.sec1 {
+    text-align: center;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+.card {
+    flex: auto;
+    max-width: 150px;
+}
+.cardImg {
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+}
+
 .banner {
     display: flex;
     background-color: #1f2937;
