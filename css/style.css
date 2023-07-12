@@ -9,7 +9,7 @@ h1 {
     font-size: 64px;
 }
 
-h2 {
+h2, h3{
     font-size: 32px;
 }
 
@@ -119,6 +119,22 @@ p.signed {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.wideCard {
+    display: flex;
+    gap: 64px;
+    background-color:#3882f6;
+    justify-content: center;
+    align-items: center;
+    padding: 64px 200px;
+    color: white;
+    border-radius: 10px;
+    margin: 120px 0;
+}
+
+.specialB {
+    border: 3px solid white;
 }
 
 .header {
