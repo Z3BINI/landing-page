@@ -21,4 +21,6 @@ a {
     display: flex;
     background-color: #1f2937;
     color: white;
+    padding: 42px 260px;
+    align-items: center;
 }
