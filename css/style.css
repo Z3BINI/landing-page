@@ -9,6 +9,10 @@ h1 {
     font-size: 64px;
 }
 
+p {
+    font-size: 20px;
+}
+
 ul {
     list-style: none;
     display: flex;
@@ -28,6 +32,15 @@ img {
     border-radius: 25px;
 }
 
+button {
+    padding: 10px 20px;
+    background-color: #3882f6;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
 .banner {
     display: flex;
     background-color: #1f2937;
@@ -44,6 +57,7 @@ img {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    gap: 8px;
 }
 
 .header {
