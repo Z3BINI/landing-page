@@ -58,7 +58,8 @@ button {
     flex-direction: column;
     background-color: #e5e7eb;
     align-items: center;
-    padding: 64px 0;
+    padding: 64px 300px;
+    gap: 16px;
 }
 p.quote {
     font-style: italic;
@@ -67,6 +68,7 @@ p.quote {
 }
 p.signed {
     font-weight: bold;
+    align-self: flex-end;
 }
 .cards {
     display: flex;
